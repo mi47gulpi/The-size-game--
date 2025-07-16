@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mi47gulpi.github.io/The-size-game--/sitemap.xml
